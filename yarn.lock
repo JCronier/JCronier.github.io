@@ -1397,6 +1397,11 @@
     "@types/yargs" "^16.0.0"
     "chalk" "^4.0.0"
 
+"@liquicode/lib-tokenize@^0.1.4":
+  "integrity" "sha512-2+7EiLfX9WD2tRT6UTCTEUCg6FGwjHkSrwAf0x+uA6ATdxrD1Ta7qhFzvPB/WL7gsKWwB92xK11QzZv0EbHk4g=="
+  "resolved" "https://registry.npmjs.org/@liquicode/lib-tokenize/-/lib-tokenize-0.1.4.tgz"
+  "version" "0.1.4"
+
 "@material-ui/core@^4.0.0", "@material-ui/core@^4.12.3":
   "integrity" "sha512-sdpgI/PL56QVsEJldwEe4FFaFTLUqN+rd7sSZiRCdx2E/C7z5yK0y/khAWVBH24tXwto7I1hCzNWfJGZIYJKnw=="
   "resolved" "https://registry.npmjs.org/@material-ui/core/-/core-4.12.3.tgz"
