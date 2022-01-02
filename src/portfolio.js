@@ -21,28 +21,28 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'REST-aurant',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      ' A "smart-menu" app, allowing customers at a restaurant to order items off the menu to their table as well as being able to pay their bills',
+    stack: ['SASS', 'Express', 'React', 'MongoDB'],
+    sourceCode: 'https://github.com/JCronier/rest-aurant',
+    livePreview: 'https://github.com/JCronier/rest-aurant',
   },
   {
-    name: 'Project 2',
+    name: 'Interview Scheduler',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A React app that where a user can schedule, edit and delete interview appointments',
+    stack: ['React', 'webpack', 'Axios' ],
+    sourceCode: 'https://github.com/JCronier/interview-scheduler',
+    livePreview: 'https://github.com/JCronier/interview-scheduler',
   },
   {
-    name: 'Project 3',
+    name: 'Decision Maker',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'A multi-page application designed to help you and your friends come to an agreement.',
+    stack: ['Express', 'PostgreSQL', 'jQuery'],
+    sourceCode: 'https://github.com/JCronier/decision-maker',
+    livePreview: 'https://github.com/JCronier/decision-maker',
   },
 ]
 
