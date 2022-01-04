@@ -66,6 +66,7 @@ const skills = [
   'PostgreSQL',
   'MongoDB',
   'SASS',
+  'Tailwind',
   'Material UI',
   'Git',
   'Jest',
