@@ -29,6 +29,14 @@ const projects = [
     livePreview: 'https://github.com/JCronier/rest-aurant',
   },
   {
+    name: 'CMS Blog',
+    description:
+      ' A blog app built with Next.js, React and GraphQL',
+    stack: ['Next.js', 'React', 'GraphQL', 'Tailwind'],
+    sourceCode: 'https://github.com/JCronier/grapgql-blog',
+    livePreview: 'https://grapgql-blog.vercel.app/',
+  },
+  {
     name: 'Interview Scheduler',
     description:
       'A React app that where a user can schedule, edit and delete interview appointments',
